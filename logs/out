@@ -1,0 +1,17 @@
+2020-10-08 12:25:40,444 __main__ INFO {'name': 'google.com', 'registrar': 'MarkMonitor Inc.', 'creation_date': datetime.datetime(1997, 9, 15, 4, 0), 'expiration_date': datetime.datetime(2028, 9, 14, 4, 0), 'last_updated': None, 'status': 'clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited', 'name_servers': {'ns3.google.com', 'ns4.google.com', 'ns1.google.com', 'ns2.google.com'}}
+2020-10-08 12:25:40,445 __main__ INFO <dns.resolver.Answer object at 0x7f97eae40470>
+2020-10-08 12:27:31,750 __main__ INFO pranavjoglekarcodes.web.app
+2020-10-08 12:27:32,056 __main__ INFO <dns.resolver.Answer object at 0x7fe89b2246a0>
+2020-10-08 12:27:33,768 __main__ INFO [Icon(url='https://www.prana.png', width=0, height=0, format=''), Icon(url='https://pranavjoglekarcodes.web.app/favicon.ico', width=0, height=0, format='ico'), Icon(url='https://pranavjoglekarcodes.web.app/pj.jpg', width=0, height=0, format='jpg')]
+2020-10-08 12:27:34,392 __main__ INFO [[0, 1, 0, 1, 1, 1, -1, 1, 1, -1, 0, 1, -1, -1, 1, -1, -1, -1, -1, 0, 0, -1, -1, 0, 0, 1, -1, -1, -1, -1]]
+2020-10-08 12:30:12,771 __main__ INFO www.google.com
+2020-10-08 12:30:12,774 __main__ INFO {'name': 'google.com', 'registrar': 'MarkMonitor Inc.', 'creation_date': datetime.datetime(1997, 9, 15, 4, 0), 'expiration_date': datetime.datetime(2028, 9, 14, 4, 0), 'last_updated': None, 'status': 'clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited', 'name_servers': {'ns3.google.com', 'ns4.google.com', 'ns2.google.com', 'ns1.google.com'}}
+2020-10-08 12:30:12,774 __main__ INFO <dns.resolver.Answer object at 0x7f9b11890a20>
+2020-10-08 12:30:13,661 __main__ INFO [Icon(url='https://www.google.com/favicon.ico', width=0, height=0, format='ico')]
+2020-10-08 12:30:13,661 __main__ INFO error ipening as
+2020-10-08 12:30:14,354 __main__ INFO [[0, 1, 0, 1, 1, 1, -1, 1, 1, 1, 0, 1, 1, -1, 1, -1, -1, 1, -1, 0, 0, -1, -1, 0, 0, 1, -1, -1, -1, -1]]
+2020-10-08 12:36:40,322 __main__ INFO github.com/Pranav2612000
+2020-10-08 12:36:40,533 __main__ INFO None
+2020-10-08 12:36:42,413 __main__ INFO [Icon(url='https://github.com/favicon.ico', width=0, height=0, format='ico'), Icon(url='https://avatars3.githubusercontent.com/u/20909078?s=400&u=e0783053a879455a830e116b74957efd6800e775&v=4', width=0, height=0, format=''), Icon(url='https://github.githubassets.com/favicons/favicon.png', width=0, height=0, format='png'), Icon(url='https://github.githubassets.com/favicons/favicon.svg', width=0, height=0, format='svg')]
+2020-10-08 12:36:42,415 __main__ INFO error ipening as
+2020-10-08 12:36:43,042 __main__ INFO [[0, 1, 0, 1, 1, 1, -1, 1, 1, 1, 0, 1, -1, -1, 1, -1, -1, -1, -1, 0, 0, -1, -1, 0, 0, -1, -1, -1, -1, -1]]
